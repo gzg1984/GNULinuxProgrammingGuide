@@ -1,0 +1,10 @@
+ltmain.sh
+configure
+config.h.in
+configure.scan
+autom4te.cache/
+*.log
+getloadavg.c
+*~
+
+

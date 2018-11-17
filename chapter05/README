@@ -1,0 +1,9 @@
+How to use :
+	libtoolize
+	autoconf
+	touch getloadavg.c
+	./configure
+	make
+
+But it can still not pass configure ...
+wtf...
